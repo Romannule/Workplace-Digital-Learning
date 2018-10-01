@@ -1,0 +1,101 @@
+SubjectID,Condition,Gender,Age Range,Post-Test score
+1,Video,Male,31-35,36.84210526
+2,Video,Male,56-60,68.42105263
+5,Spontaneous Discussion,Female,26-30,47.36842105
+6,Spontaneous Discussion,Male,21-25,57.89473684
+11,Video,Female,21-25,47.36842105
+12,Video,Female,21-25,63.15789474
+15,Spontaneous Discussion,Male,26-30,63.15789474
+16,Spontaneous Discussion,Female,31-35,89.47368421
+19,Interpolated Testing,Male,31-35,73.68421053
+21,Interpolated Testing,Male,31-35,73.68421053
+22,Interpolated Testing,Female,26-30,57.89473684
+23,Interpolated Testing,Female,41-45,68.42105263
+24,Interpolated Testing,Female,26-30,36.84210526
+25,Interpolated Testing,Female,26-30,52.63157895
+28,Spontaneous Discussion,Female,21-25,36.84210526
+29,Spontaneous Discussion,Female,21-25,52.63157895
+32,Spontaneous Discussion,Female,26-30,31.57894737
+33,Spontaneous Discussion,Female,21-25,42.10526316
+34,Video,Male,26-30,57.89473684
+35,Video,Female,21-25,15.78947368
+37,Spontaneous Discussion,Male,21-25,10.52631579
+39,Interpolated Testing,Male,26-30,47.36842105
+40,Interpolated Testing,Male,31-35,68.42105263
+42,Interpolated Testing,Male,21-25,89.47368421
+43,Interpolated Testing,Male,26-30,84.21052632
+50,Spontaneous Discussion,Male,21-25,63.15789474
+52,Interpolated Testing,Male,21-25,94.73684211
+53,Interpolated Testing,Female,26-30,52.63157895
+54,Interpolated Testing,Female,21-25,94.73684211
+62,Video,Male,26-30,57.89473684
+65,Interpolated Testing,Male,31-35,94.73684211
+66,Interpolated Testing,Male,21-25,78.94736842
+68,Interpolated Testing,Female,21-25,94.73684211
+69,Video,Female,31-35,73.68421053
+70,Video,Male,21-25,57.89473684
+76,Interpolated Testing,Female,41-45,68.42105263
+77,Video,Male,36-40,68.42105263
+78,Video,Female,46-50,52.63157895
+79,Video,Male,26-30,42.10526316
+81,Video,Male,26-30,52.63157895
+83,Spontaneous Discussion,Male,41-45,52.63157895
+87,Interpolated Testing,Male,26-30,89.47368421
+88,Video,Male,31-35,68.42105263
+89,Video,Female,31-35,63.15789474
+90,Spontaneous Discussion,Male,26-30,47.36842105
+91,Spontaneous Discussion,Male,26-30,73.68421053
+95,Spontaneous Discussion,Female,21-25,57.89473684
+97,Video,Male,26-30,31.57894737
+98,Spontaneous Discussion,Male,26-30,68.42105263
+99,Video,Male,21-25,84.21052632
+104,Interpolated Testing,Male,26-30,73.68421053
+107,Video,Male,26-30,26.31578947
+108,Video,Male,26-30,31.57894737
+109,Interpolated Testing,Female,21-25,63.15789474
+110,Interpolated Testing,Male,21-25,36.84210526
+111,Structured Discussion,Female,26-30,57.89473684
+112,Interpolated Testing,Male,21-25,78.94736842
+113,Video,Female,26-30,52.63157895
+114,Interpolated Testing,Female,26-30,68.42105263
+115,Interpolated Testing,Male,26-30,57.89473684
+116,Video,Male,26-30,47.36842105
+117,Interpolated Testing,Female,21-25,68.42105263
+118,Structured Discussion,Female,26-30,42.10526316
+119,Interpolated Testing,Female,36-40,47.36842105
+121,Interpolated Testing,Male,21-25,89.47368421
+123,Video,Female,21-25,73.68421053
+124,Structured Discussion,Female,26-30,68.42105263
+125,Interpolated Testing,Male,26-30,47.36842105
+126,Interpolated Testing,Female,26-30,63.15789474
+127,Video,Male,26-30,68.42105263
+128,Interpolated Testing,Female,21-25,57.89473684
+129,Interpolated Testing,Female,21-25,68.42105263
+130,Structured Discussion,Female,21-25,68.42105263
+131,Video,Female,26-30,31.57894737
+132,Video,Male,26-30,57.89473684
+133,Structured Discussion,Female,26-30,89.47368421
+134,Structured Discussion,Female,21-25,78.94736842
+136,Video,Male,21-25,63.15789474
+137,Structured Discussion,Female,26-30,26.31578947
+138,Structured Discussion,Female,26-30,57.89473684
+139,Video,Male,21-25,73.68421053
+140,Interpolated Testing,Female,26-30,84.21052632
+141,Video,Male,21-25,84.21052632
+142,Structured Discussion,Female,26-30,57.89473684
+144,Structured Discussion,Female,21-25,63.15789474
+145,Interpolated Testing,Male,26-30,73.68421053
+146,Structured Discussion,Male,26-30,78.94736842
+147,Structured Discussion,Male,26-30,78.94736842
+148,Structured Discussion,Male,31-35,68.42105263
+149,Structured Discussion,Female,21-25,68.42105263
+150,Structured Discussion,Male,31-35,89.47368421
+151,Structured Discussion,Male,26-30,63.15789474
+152,Structured Discussion,Male,26-30,78.94736842
+153,Spontaneous Discussion,Female,21-25,68.42105263
+154,Spontaneous Discussion,Male,41-45,78.94736842
+155,Spontaneous Discussion,Female,26-30,63.15789474
+156,Spontaneous Discussion,Male,31-35,57.89473684
+157,Structured Discussion,Male,21-25,89.47368421
+158,Spontaneous Discussion,Male,26-30,73.68421053
+159,Structured Discussion,Male,31-35,94.73684211
